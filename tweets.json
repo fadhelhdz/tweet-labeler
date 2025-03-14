@@ -10,7 +10,7 @@
         "favorite_count": 0,
         "reply_count": 0,
         "image_paths": [],
-        "sentiment": "NEGATIVE"
+        "sentiment": "Neutral"
     },
     {
         "tweet_count": 2,
@@ -27,7 +27,7 @@
         "image_paths": [
             "C:\\Users\\hariz\\projects\\tweet_scraping\\images\\media_2_0.jpg"
         ],
-        "sentiment": "NEUTRAL"
+        "sentiment": "Neutral"
     },
     {
         "tweet_count": 3,
@@ -42,7 +42,7 @@
         "favorite_count": 0,
         "reply_count": 0,
         "image_paths": [],
-        "sentiment": "NEUTRAL"
+        "sentiment": "Neutral"
     },
     {
         "tweet_count": 4,
@@ -55,7 +55,7 @@
         "favorite_count": 0,
         "reply_count": 0,
         "image_paths": [],
-        "sentiment": "NEUTRAL"
+        "sentiment": "Negative"
     },
     {
         "tweet_count": 5,
@@ -68,6 +68,6 @@
         "favorite_count": 9,
         "reply_count": 1,
         "image_paths": [],
-        "sentiment": "NEGATIVE"
+        "sentiment": "Neutral"
     }
 ]
